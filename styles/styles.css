@@ -1,32 +1,32 @@
-body {
-    max-width: 600px;
-    margin: 0 auto;
-  }
+body{
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
   
   .one {
-    background: pink;
-    border: 3px solid blue;
-    /* CHANGE ME */
-    padding: 32px;
-    margin: 12px;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px;
+    background-color: pink;
   }
   
   .two {
-    background: lightblue;
-    border: 3px solid purple;
-    /* CHANGE ME */
-    margin-bottom: 48px;
+    padding: 18px;
+    margin-top: 10px;
+    background-color: pink;
   }
   
   .three {
-    background: peachpuff;
-    border: 3px solid brown;
-    width: 200px;
-    /* CHANGE ME */
-    padding: 32px;
-    margin-left: auto;
+    padding: 18px;
+    text-align: center;
+    background-color: pink;
+    margin-top: 10px;
   }
-  © 2022 GitHub, Inc.
-  Terms
-  Privacy
-  
+  button{
+    display: block;
+    margin: 8px 24px;
+    background-color: white;
+    margin:auto;
+    font-size: 25px;
+  }
+ 
